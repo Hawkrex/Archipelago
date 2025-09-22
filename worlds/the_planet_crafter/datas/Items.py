@@ -768,5 +768,415 @@ ITEMS_JSON = [
     "Name": "HarvestingRobot1",
     "Id": 154,
     "Classification": "progression"
+  },
+  {
+    "Name": "BootsSpeed1",
+    "Id": 155,
+    "Classification": "progression"
+  },
+  {
+    "Name": "MultiToolMineSpeed1",
+    "Id": 156,
+    "Classification": "progression"
+  },
+  {
+    "Name": "HudCompass",
+    "Id": 157,
+    "Classification": "progression"
+  },
+  {
+    "Name": "BootsSpeed2",
+    "Id": 158,
+    "Classification": "progression"
+  },
+  {
+    "Name": "MultiToolMineSpeed2",
+    "Id": 159,
+    "Classification": "progression"
+  },
+  {
+    "Name": "podAngle",
+    "Id": 160,
+    "Classification": "progression"
+  },
+  {
+    "Name": "RecyclingMachine",
+    "Id": 161,
+    "Classification": "progression"
+  },
+  {
+    "Name": "MultiToolMineSpeed3",
+    "Id": 162,
+    "Classification": "progression"
+  },
+  {
+    "Name": "RocketMap1",
+    "Id": 163,
+    "Classification": "progression"
+  },
+  {
+    "Name": "ScreenMap1",
+    "Id": 164,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Destructor1",
+    "Id": 165,
+    "Classification": "progression"
+  },
+  {
+    "Name": "InsideLamp1",
+    "Id": 166,
+    "Classification": "progression"
+  },
+  {
+    "Name": "MultiToolLight2",
+    "Id": 167,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Pod4x",
+    "Id": 168,
+    "Classification": "progression"
+  },
+  {
+    "Name": "BootsSpeed3",
+    "Id": 169,
+    "Classification": "progression"
+  },
+  {
+    "Name": "MultiToolMineSpeed4",
+    "Id": 170,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Jetpack2",
+    "Id": 171,
+    "Classification": "progression"
+  },
+  {
+    "Name": "RocketMap2",
+    "Id": 172,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Fence",
+    "Id": 173,
+    "Classification": "progression"
+  },
+  {
+    "Name": "RocketInformations1",
+    "Id": 174,
+    "Classification": "progression"
+  },
+  {
+    "Name": "PinChip2",
+    "Id": 175,
+    "Classification": "progression"
+  },
+  {
+    "Name": "DisplayCase",
+    "Id": 176,
+    "Classification": "progression"
+  },
+  {
+    "Name": "SkinDisplayer",
+    "Id": 177,
+    "Classification": "progression"
+  },
+  {
+    "Name": "MapChip",
+    "Id": 178,
+    "Classification": "progression"
+  },
+  {
+    "Name": "VehicleOxygen1",
+    "Id": 179,
+    "Classification": "progression"
+  },
+  {
+    "Name": "VehicleEquipmentSize2",
+    "Id": 180,
+    "Classification": "progression"
+  },
+  {
+    "Name": "VehicleInventorySize2",
+    "Id": 181,
+    "Classification": "progression"
+  },
+  {
+    "Name": "VehicleSpeed2",
+    "Id": 182,
+    "Classification": "progression"
+  },
+  {
+    "Name": "RocketMap3",
+    "Id": 183,
+    "Classification": "progression"
+  },
+  {
+    "Name": "MultiToolDeconstruct2",
+    "Id": 184,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Jetpack3",
+    "Id": 185,
+    "Classification": "progression"
+  },
+  {
+    "Name": "VehicleLights2",
+    "Id": 186,
+    "Classification": "progression"
+  },
+  {
+    "Name": "HudChipCleanConstruction",
+    "Id": 187,
+    "Classification": "progression"
+  },
+  {
+    "Name": "WallInside",
+    "Id": 188,
+    "Classification": "progression"
+  },
+  {
+    "Name": "VehicleInventorySize3",
+    "Id": 189,
+    "Classification": "progression"
+  },
+  {
+    "Name": "RocketMap4",
+    "Id": 190,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Flare",
+    "Id": 191,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Explosive",
+    "Id": 192,
+    "Classification": "progression"
+  },
+  {
+    "Name": "RocketDrones1",
+    "Id": 193,
+    "Classification": "progression"
+  },
+  {
+    "Name": "MultiToolDeconstruct3",
+    "Id": 194,
+    "Classification": "progression"
+  },
+  {
+    "Name": "PinChip3",
+    "Id": 195,
+    "Classification": "progression"
+  },
+  {
+    "Name": "MultiToolLight3",
+    "Id": 196,
+    "Classification": "progression"
+  },
+  {
+    "Name": "VehicleSpeed3",
+    "Id": 197,
+    "Classification": "progression"
+  },
+  {
+    "Name": "RocketInformations2",
+    "Id": 198,
+    "Classification": "progression"
+  },
+  {
+    "Name": "FlowerPot3",
+    "Id": 199,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Table1",
+    "Id": 200,
+    "Classification": "progression"
+  },
+  {
+    "Name": "TreePlanter2",
+    "Id": 201,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Counter1",
+    "Id": 202,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Counter2",
+    "Id": 203,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Chair2",
+    "Id": 204,
+    "Classification": "progression"
+  },
+  {
+    "Name": "SofaAngleColored",
+    "Id": 205,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Desktop2",
+    "Id": 206,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Faucet1",
+    "Id": 207,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Fireplace",
+    "Id": 208,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Fridge1",
+    "Id": 209,
+    "Classification": "progression"
+  },
+  {
+    "Name": "FountainBig",
+    "Id": 210,
+    "Classification": "progression"
+  },
+  {
+    "Name": "TableSmall3",
+    "Id": 211,
+    "Classification": "progression"
+  },
+  {
+    "Name": "FlowerPot2",
+    "Id": 212,
+    "Classification": "progression"
+  },
+  {
+    "Name": "HologramGenerator",
+    "Id": 213,
+    "Classification": "progression"
+  },
+  {
+    "Name": "ExerciseBike1",
+    "Id": 214,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Ivy1",
+    "Id": 215,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Library1",
+    "Id": 216,
+    "Classification": "progression"
+  },
+  {
+    "Name": "LightBoxMedium",
+    "Id": 217,
+    "Classification": "progression"
+  },
+  {
+    "Name": "PlanetViewer1",
+    "Id": 218,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Pooltable1",
+    "Id": 219,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Vault1",
+    "Id": 220,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Server1",
+    "Id": 221,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Shelves1",
+    "Id": 222,
+    "Classification": "progression"
+  },
+  {
+    "Name": "TableSmall",
+    "Id": 223,
+    "Classification": "progression"
+  },
+  {
+    "Name": "SolarQuartz",
+    "Id": 224,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Trashcan1",
+    "Id": 225,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Treadmill1",
+    "Id": 226,
+    "Classification": "progression"
+  },
+  {
+    "Name": "TreePlanter",
+    "Id": 227,
+    "Classification": "progression"
+  },
+  {
+    "Name": "CookingStation1",
+    "Id": 228,
+    "Classification": "progression"
+  },
+  {
+    "Name": "SmartFabric",
+    "Id": 229,
+    "Classification": "progression"
+  },
+  {
+    "Name": "SofaColored",
+    "Id": 230,
+    "Classification": "progression"
+  },
+  {
+    "Name": "BedDoubleColored",
+    "Id": 231,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Container3",
+    "Id": 232,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Pod9xA",
+    "Id": 233,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Pod9xB",
+    "Id": 234,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Pod9xC",
+    "Id": 235,
+    "Classification": "progression"
+  },
+  {
+    "Name": "Drone2",
+    "Id": 236,
+    "Classification": "progression"
   }
 ]
