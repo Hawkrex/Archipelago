@@ -1,6 +1,6 @@
 # Archipelago - The Planet Crafter
 
-This is the Archipelago fork for The Planet Crafter, you can find the [client](https://github.com/Hawkrex/TPCA) here for the players.
+This is the Archipelago fork for The Planet Crafter that contains the world for the **Archipelago server host**, you can find the [client](https://github.com/Hawkrex/TPCA) here for the **people who wants to play The Planet Crafter Archipelago**.
 
 ### Instructions for the **Archipelago server host** :
 - Go to this repo `releases` page
