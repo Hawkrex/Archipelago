@@ -1,3 +1,15 @@
+# Archipelago - The Planet Crafter
+
+This is the Archipelago fork for The Planet Crafter, you can find the [client](https://github.com/Hawkrex/TPCA) here for the players.
+
+### Instructions for the **Archipelago server host** :
+- Go to this repo `releases` page
+- Download the `the_planet_crafter.apworld`
+- Simply drop it in the `custom_worlds` folder of your Archipelago folder or just double-click it (if the extension is associated with Archipelago)
+- Follow the classic steps of running an Archipelago game (Gather the yamls, generate the game ... have fun)
+
+### Below is the original Archipelago readme.
+
 # [Archipelago](https://archipelago.gg) ![Discord Shield](https://discordapp.com/api/guilds/731205301247803413/widget.png?style=shield) | [Install](https://github.com/ArchipelagoMW/Archipelago/releases)
 
 Archipelago provides a generic framework for developing multiworld capability for game randomizers. In all cases,
