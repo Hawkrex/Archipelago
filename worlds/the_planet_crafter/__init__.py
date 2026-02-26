@@ -69,7 +69,7 @@ class ThePlanetCrafterWorld(World):
 
     def create_item(self, name: str) -> ThePlanetCrafterItem:
         data = item_table[name]
-        item = ThePlanetCrafterItem(name, data.classification, data.id, self.player)
+        item = ThePlanetCrafterItem(name, data.classification, data.apId, self.player)
         return item
     
     def create_event(self, name: str) -> ThePlanetCrafterItem:
